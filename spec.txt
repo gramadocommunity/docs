@@ -1,0 +1,22 @@
+
+The Gramado OS is running on this machine.
+
+Machine Specification:
+
+Motherboard:
+    Gigabyte Technology Co., Ltd.
+    GA-VM900M (rev. 2.0) 
+
+Chipset:
+    VIA Technologies, Inc.
+	P4M900 and VT8237A
+
+Processor:
+    Intel® Core™2 Duo Processor E4500 
+	Allendale (Core 2 Duo)
+	
+Video card:	
+    NVIDIA GeForce 8400 GS
+	
+RAM:
+    4GB
