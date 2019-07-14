@@ -1,6 +1,8 @@
- 
-  This is the folder for the kernelbase's source code.
-  Everything here is gonna run in ring 0, 32bit protected mode.
+It's a little disgn note about the kernel base. 
+
+The main folder for the kernel base is /gramado/kernel.
+This is the folder for the kernelbase's source code.
+Everything here is gonna run in ring 0, 32bit protected mode.
  
  
  List of folders:
